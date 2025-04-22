@@ -1,0 +1,1 @@
+[{"code":"#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char str[100];\r\n    int length = strlen(str);\r\n    \r\n    printf(\"%d\",length);\r\n    return 0;\r\n}","language":"c","time":"2025-04-22T04:55:54.648Z","isCorrect":false}]
