@@ -3,7 +3,7 @@
 ![C](https://img.shields.io/badge/Language-C-blue.svg)
 ![GCC](https://img.shields.io/badge/Compiler-GCC-success.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME?style=social)
+
 
 ✨ Welcome to my **C Programming Solutions Repository**!  
 This repository contains solutions to C programs provided on **CodeFlixLabs**
@@ -29,9 +29,7 @@ This repository contains solutions to C programs provided on **CodeFlixLabs**
 🔹 Functions & Recursion  
 🔹 Arrays & Strings  
 🔹 Pointers 🧷  
-🔹 Structures & Unions  
-🔹 File Handling 📂  
-🔹 Dynamic Memory Allocation  
+🔹 Structures & Unions   
 🔹 Sorting & Searching Algorithms  
 
 ---
@@ -39,31 +37,52 @@ This repository contains solutions to C programs provided on **CodeFlixLabs**
 ## 🗂️ Folder Structure
 
 📁 C-Programs-CodeFlixLabs
+<br>
 │
+<br>
 ├── p1.c
+<br>
 ├── p2.c
+<br>
 ├── p3.c
+<br>
 ├── ...
+<br>
 └── README.md
+<br>
 
-🎯 Purpose
-
+---
+## 🎯 Purpose
+<br>
 🎓 Academic practice
+<br>
 🧑‍💻 Improve problem-solving skills
+<br>
 📚 Strong C fundamentals
+<br>
 📌 Personal reference repository
+<br>
 
-⭐ Support
 
+---
+## ⭐ Support
+<br>
 If you find this helpful:
+<br>
 ⭐ Star this repository
+<br>
 🍴 Fork it
+<br>
 📢 Share with friends
+<br>
 
-👨‍💻 Author
-
+---
+## 👨‍💻 Author
+<br>
 **Saiyam Gupta**
+<br>
 B.Tech CSE Student
+<br>
 💡 Passionate about Programming
-
-🔥 Happy Coding! 🔥
+<br><br>
+**🔥 Happy Coding! 🔥**
